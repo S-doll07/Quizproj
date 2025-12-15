@@ -54,7 +54,29 @@ Admin: Can manage questions and answers
 
 SARUDHARSHINI.B
 ---
+## 🗂 Project Structure
 
+quiz_app/
+│
+├── admin_login.php
+├── manage_questions.php
+├── add_question.php
+├── edit_question.php
+│
+├── quiz.php
+├── submit.php
+├── preview.php
+│
+├── login.php
+├── start.php
+├── db.php
+│
+├── assets/
+│ ├── css/
+│ └── images/
+│
+├── quiz_app.sql
+└── README.md
 
 ## 🗂 Project Structure
 
