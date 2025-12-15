@@ -78,5 +78,4 @@ quiz_app/
 ├── quiz_app.sql
 └── README.md
 
-## 🗂 Project Structure
 
